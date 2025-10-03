@@ -1,0 +1,10 @@
+> frontend@0.1.0 build
+> craco build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  133.4 kB  build\static\js\main.44ae7a9c.js
+  13.19 kB  build\static\css\main.c59be504.css
