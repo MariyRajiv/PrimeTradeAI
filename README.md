@@ -1,6 +1,6 @@
 # TaskFlow - Scalable Web App with Authentication & Dashboard
 
-A modern,full-stack web application built with React, FastAPI, and MongoDB featuring JWT-based authentication, task management, and a professional dashboard interface.
+A modern, full-stack web application built with React, FastAPI, and MongoDB featuring JWT-based authentication, task management, and a professional dashboard interface.
 
 ![Task Tracker Preview](https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
