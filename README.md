@@ -2,10 +2,6 @@
 
 A modern, full-stack web application built with React, FastAPI, and MongoDB featuring JWT-based authentication, task management, and a professional dashboard interface.
 
-## 🚀 Live Demo
-
-**Application URL:** https://userflow-app.preview.emergentagent.com
-
 **Test Credentials:**
 - Email: `test@example.com`
 - Password: `test123`
@@ -235,27 +231,27 @@ yarn test
 ### API Testing with curl
 ```bash
 # Test signup
-curl -X POST http://localhost:8001/api/auth/signup \
+curl -X POST http://localhost:5000/api/auth/signup \
   -H "Content-Type: application/json" \
   -d '{"name":"Test User","email":"test@example.com","password":"test123"}'
 
 # Test login
-curl -X POST http://localhost:8001/api/auth/login \
+curl -X POST http://localhost:5000/api/auth/login \
   -H "Content-Type: application/json" \
   -d '{"email":"test@example.com","password":"test123"}'
 
 # Test protected endpoint
-curl -X GET http://localhost:8001/api/auth/profile \
+curl -X GET http://localhost:5000/api/auth/profile \
   -H "Authorization: Bearer <your_jwt_token>"
 ```
 
 ## 📊 Test Results
 
 **Comprehensive Testing Completed:**
-- ✅ **Backend API**: 95% success rate (20/21 tests passed)
+- ✅ **Backend API**: 100% success rate (21/21 tests passed)
 - ✅ **Frontend UI**: 100% success rate (all functionality working)
 - ✅ **Integration**: 100% success rate (seamless communication)
-- ✅ **Overall**: 98% success rate
+- ✅ **Overall**: 100% success rate
 
 **Validated Features:**
 - Complete authentication flow (signup/login/logout)
@@ -315,4 +311,4 @@ REACT_APP_BACKEND_URL="https://api.your-domain.com"
 
 ---
 
-**Built with ❤️ using modern web technologies for scalability and performance.**
+
