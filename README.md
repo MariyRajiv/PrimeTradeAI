@@ -64,7 +64,7 @@ React Application
 ## 🛠️ Technical Stack
 
 ### Frontend
-- **React 19** - Modern React with hooks and context
+- **React 18** - Modern React with hooks and context
 - **TailwindCSS 3.4** - Utility-first CSS framework
 - **Shadcn/UI** - Modern component library
 - **Axios** - HTTP client for API communication
