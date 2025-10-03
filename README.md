@@ -2,6 +2,9 @@
 
 A modern, full-stack web application built with React, FastAPI, and MongoDB featuring JWT-based authentication, task management, and a professional dashboard interface.
 
+![Task Tracker Preview](https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+
+
 **Test Credentials:**
 - Email: `test@example.com`
 - Password: `test123`
