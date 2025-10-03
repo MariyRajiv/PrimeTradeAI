@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Python cache and environment files
+backend/__pycache__/
+backend/.env
+
+# Node.js dependencies and environment files
+frontend/node_modules/
+frontend/.env
+
+# Logs and reports
+test_reports/
+
+# OS-specific files (optional but recommended)
+.DS_Store
+Thumbs.db
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Dependency lock files (if you want to ignore yarn.lock or package-lock.json)
+# Uncomment if you don't want to commit these
+# yarn.lock
+# package-lock.json
